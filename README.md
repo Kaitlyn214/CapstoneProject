@@ -1,2 +1,4 @@
 # CapstoneProject
 Restaurant Location Determination 
+There are two prominent neighborhoods in Indianapolis, Indiana: Fountain Square and Bates-Hendricks. Both are growing rapidly and have investors across the state buying and developing land + housing. The grow of this area has been exacerbated by the 2020/2021 housing boom. These neighborhoods are geographically similar as they are side-by-side. They each offer seemingly equal amenities and proximity to the city, yet the homes in Fountain Square are selling for 10 – 15% more than homes in Bates-Hendricks. 
+I plan to use data on number and locations of amenities such as restaurant, shops, grocery stores, parks, gyms, etc. as well as data surrounding the availability of public transportation in each neighborhood in an attempt to understand why properties in Fountain Square are selling for 10 -15% more than those in Bates-Hendricks, when each neighborhood appears to be virtually the same.  
